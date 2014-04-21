@@ -4,6 +4,8 @@ public class ContaTest
 {
 	public static void main(String[] args) 
 	{
+		System.out.println("Bem vindo vamos testar um codigo?");
+		System.out.println("-------------------------------------------------- ");
 		Conta vrConta = new Conta();
 		
 		vrConta.Cliente = "Ricardo";
